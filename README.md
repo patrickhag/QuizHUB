@@ -3,9 +3,9 @@ QuizHUB is an online web platform where anyone can test his/her own skills by us
 
 Explanation of the three words
 -------------------------------
-Quiz : a game or competition in which you answer questions.
-Hub: the central or main part of something where there is most activity are located.
-System: a set of connected things or devices which operate together  
+1. Quiz : a game or competition in which you answer questions.
+2. Hub: the central or main part of something where there is most activity are located.
+3. System: a set of connected things or devices which operate together  
 
 What to expect FROM QuizHUB?
 ---------------------------------
